@@ -1,0 +1,13 @@
+diferença de max e min tanto para altura e largura
+
+nao sei quando usar % ou px na altura na hora do responsivo
+
+diferença entre vh e % na altura
+
+overflow : hidden
+
+responsividade de largura
+
+diferença entre padding e height
+
+display inline block lembrar da merda dos -4px left
